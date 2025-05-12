@@ -1,0 +1,22 @@
+inclusões que não estavam no último projeto:
+- abertura econômica
+- simular os efeitos de mexer nas tarifas
+- Título: sugestões para a implementação da reforma tributária
+- como no trabalho passado, várias alíquotas são necessárias
+- fazer simulações por exemplo retirando algum item da cesta básica passando a ser cobrada tarifa
+
+* estimar o modelo
+
+# onde está o repositório do trabalho?
+# quais parâmetros não foram estimados? aqueles com calibração externa?
+
+* por enquanto eu ficaria sob demanda para ir me familiarizando com o trabalho
+
+* Rafael Dix-Carneiro (quem é)?
+
+- rais?
+- qual base de dados o Dix-Carneiro usa para comércio exterior?
+- reclassificação dos produtos de acordo com a alíquota
+- 
+
+
